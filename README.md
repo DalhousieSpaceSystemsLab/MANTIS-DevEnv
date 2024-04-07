@@ -18,8 +18,6 @@ By default, the following Nix packages are auto-installed when entering the DevE
 - vim
 
 ## Getting Started
-[![asciicast](https://asciinema.org/a/3joAE3Vwq7VRttVVMTL99VcCw.svg)](https://asciinema.org/a/3joAE3Vwq7VRttVVMTL99VcCw)
-
 To get started, clone the repo on a Windows (WSL), MacOS or Linux system:
 
 ```
@@ -51,8 +49,6 @@ _This step is mandatory to ensure all required build dependencies and tooling ar
 _NOTE_: If you have not restarted your shell after installing Nix, this may explain why this step is not working.
 
 ## Building, Flashing and Debugging
-[![asciicast](https://asciinema.org/a/YH4V1O19sdZQZ0O16xgigFbwG.svg)](https://asciinema.org/a/YH4V1O19sdZQZ0O16xgigFbwG)
-
 Once entered the DevEnv, you'll be in an ad-hoc shell environment with all of the build dependencies needed for the project to build.
 
 ```
